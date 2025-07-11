@@ -27,7 +27,7 @@ A smart curtain opener that uses an **ESP32**, **ultrasonic sensor**, and **DC m
 
 ## 📷 Image Preview
 
-![Curtain Project Image](curtain_image.jpg)
+![Curtain Project Image](curtain_image.jpeg)
 
 ---
 ## 📽️ Demo Video
