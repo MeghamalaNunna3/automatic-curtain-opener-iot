@@ -9,7 +9,7 @@ A smart curtain opener that uses an **ESP32**, **ultrasonic sensor**, and **DC m
 - Detects presence using ultrasonic sensor
 - Opens curtain with DC motor via motor driver
 - Displays welcome message via P10 LED Matrix
-- Bluetooth & IR Remote control available
+
 
 ---
 
